@@ -1,0 +1,45 @@
+body{
+		background:Black;
+		color:white;
+		font-family:'Vollkorn';
+		font-size: 18px;
+		font-weight: 400;
+}
+
+h1{ 
+		margin: 20px 0;
+		color: Blue;
+		font-size: 52px;
+		font-weight: 700;
+}
+h2{
+		background:Yellow;
+		color: red;
+		font-size:32px;
+}
+
+img{
+		height:120px;
+		border-radius:60px;
+		width:auto;
+}
+
+.img-box{ text-align: center; }
+#contact-info{
+				font-size:14px;
+				background:yellow;
+				color:red;
+				margin-right:1190px;
+}
+#box{
+		color:Lime;
+}
+
+*{margin:14;
+  padding:0;
+}
+
+
+
+
+
